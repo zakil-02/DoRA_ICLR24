@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+pillow
+scipy
+tensorboardX
+tqdm
+lmdb
+scikit-learn
+pyarrow
+DALL-E
+munkres
+six
+einops
